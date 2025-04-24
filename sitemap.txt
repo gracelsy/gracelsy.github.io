@@ -72,11 +72,11 @@ http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/physics.json
 http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/index.json
 http://example.com/live2d_api/README.html
 http://example.com/live2d_api/model_list.json
-http://example.com/live2d-widget/demo/login.html
-http://example.com/live2d-widget/demo/demo.html
-http://example.com/live2d-widget/waifu-tips.json
-http://example.com/live2d-widget/README.html
-http://example.com/live2d-widget/package.json
+http://example.com/live2d-widget-master/demo/login.html
+http://example.com/live2d-widget-master/demo/demo.html
+http://example.com/live2d-widget-master/waifu-tips.json
+http://example.com/live2d-widget-master/README.html
+http://example.com/live2d-widget-master/package.json
 http://example.com/posts/efb26950.html
 http://example.com/about/index.html
 http://example.com/categories/index.html
