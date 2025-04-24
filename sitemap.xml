@@ -67,31 +67,31 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/tags/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91/</loc>
+    <lastmod>2025-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>http://example.com/categories/NAS/</loc>
+    <loc>http://example.com/categories/Linux/</loc>
     <lastmod>2025-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/NAS/Linux/</loc>
+    <loc>http://example.com/categories/Linux/Debian/</loc>
     <lastmod>2025-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/NAS/Linux/Debian/</loc>
-    <lastmod>2025-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/NAS/Linux/Debian/Ubuntu/</loc>
+    <loc>http://example.com/categories/Linux/Debian/Ubuntu/</loc>
     <lastmod>2025-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

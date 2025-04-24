@@ -6,7 +6,7 @@ http://example.com/
 http://example.com/tags/EasyTier/
 http://example.com/tags/Openwrt/
 http://example.com/tags/Docker/
-http://example.com/categories/NAS/
-http://example.com/categories/NAS/Linux/
-http://example.com/categories/NAS/Linux/Debian/
-http://example.com/categories/NAS/Linux/Debian/Ubuntu/
+http://example.com/tags/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91/
+http://example.com/categories/Linux/
+http://example.com/categories/Linux/Debian/
+http://example.com/categories/Linux/Debian/Ubuntu/
