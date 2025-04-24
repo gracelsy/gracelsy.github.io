@@ -4,10 +4,10 @@
 .layout_post>#page,
 .layout_post>#post,
 .read-mode .layout_post>#post {
-    background: rgba(255, 255, 255, 0.5); /* 假设白色背景，最后一个参数 0.5 表示 50% 透明度 */
+    background: rgba(255, 255, 255, 0.8); /* 假设白色背景，最后一个参数 0.5 表示 50% 透明度 */
 }
 
 /* 侧边栏透明 */
 #aside-content .card-widget {
-    background: rgba(255, 255, 255, 0.5); /* 假设白色背景，最后一个参数 0.5 表示 50% 透明度 */
+    background: rgba(255, 255, 255, 0.8); /* 假设白色背景，最后一个参数 0.5 表示 50% 透明度 */
 }
