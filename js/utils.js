@@ -49,9 +49,7 @@
 
     overflowPaddingR: {
       add: () => {
-        const innerWidth = window.innerWidth
-        const clientWidth = document.body.clientWidth
-        const paddingRight = innerWidth - clientWidth
+        const paddingRight = window.innerWidth - document.body.clientWidth
 
         if (paddingRight > 0) {
           document.body.style.paddingRight = `${paddingRight}px`
@@ -72,7 +70,7 @@
       }
     },
 
-    snackbarShow: (text, showAction = false, duration = 4000) => {
+    snackbarShow: (text, showAction = false, duration = 2000) => {
       const { position, bgLight, bgDark } = GLOBAL_CONFIG.Snackbar
       const bg = document.documentElement.getAttribute('data-theme') === 'light' ? bgLight : bgDark
       Snackbar.show({
@@ -292,6 +290,22 @@
       Object.keys(keyObj).forEach(i => keyObj[i]())
 
       delete globalFn[key]
+    },
+
+    switchComments: (el = document, path) => {
+      const switchBtn = el.querySelector('#switch-btn')
+      if (!switchBtn) return
+
+      let switchDone = false
+      const postComment = el.querySelector('#post-comment')
+      const handleSwitchBtn = () => {
+        postComment.classList.toggle('move')
+        if (!switchDone && typeof loadOtherComment === 'function') {
+          switchDone = true
+          loadOtherComment(el, path)
+        }
+      }
+      btf.addEventListenerPjax(switchBtn, 'click', handleSwitchBtn)
     }
   }
 
