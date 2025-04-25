@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/link/index.html</loc>
+    
+    <lastmod>2025-04-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/live2d_api/model/bilibili-live/22/textures_order.json</loc>
     
     <lastmod>2025-04-24</lastmod>
@@ -751,7 +760,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2025-04-24</lastmod>
+    <lastmod>2025-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -759,28 +768,28 @@
   
   <url>
     <loc>http://example.com/tags/EasyTier/</loc>
-    <lastmod>2025-04-24</lastmod>
+    <lastmod>2025-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Openwrt/</loc>
-    <lastmod>2025-04-24</lastmod>
+    <lastmod>2025-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Docker/</loc>
-    <lastmod>2025-04-24</lastmod>
+    <lastmod>2025-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91/</loc>
-    <lastmod>2025-04-24</lastmod>
+    <lastmod>2025-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -789,21 +798,21 @@
   
   <url>
     <loc>http://example.com/categories/Linux/</loc>
-    <lastmod>2025-04-24</lastmod>
+    <lastmod>2025-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/Linux/Debian/</loc>
-    <lastmod>2025-04-24</lastmod>
+    <lastmod>2025-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/Linux/Debian/Ubuntu/</loc>
-    <lastmod>2025-04-24</lastmod>
+    <lastmod>2025-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

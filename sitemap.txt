@@ -1,3 +1,4 @@
+http://example.com/link/index.html
 http://example.com/live2d_api/model/bilibili-live/22/textures_order.json
 http://example.com/live2d_api/model/bilibili-live/22/index.json
 http://example.com/live2d_api/model/bilibili-live/33/textures_order.json
