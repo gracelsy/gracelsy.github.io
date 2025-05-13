@@ -23,7 +23,7 @@
 
 /* 最近文章列表项应用毛玻璃效果 */
 #recent-posts > .recent-post-item {
-    background: rgba(255,255,255,0.5);
+    background: rgba(255,255,255,0.25);
     backdrop-filter: blur(10px);
 }
 
@@ -37,7 +37,7 @@
 /* 搜索框美化 */
 /* 搜索对话框应用毛玻璃效果 */
 .search-dialog {
-    background: rgba(255,255,255,0.5);
+    background: rgba(255,255,255,0.25);
     backdrop-filter: blur(10px);
     border-radius: 0px; /* 取消圆角 */
 }
@@ -50,7 +50,7 @@
 /* 手机端毛玻璃优化 */
 /* 侧边栏菜单打开时应用毛玻璃效果 */
 #sidebar #sidebar-menus.open {
-    background: rgba(255,255,255,0.5);
+    background: rgba(255,255,255,0.25);
     backdrop-filter: blur(10px);
 }
 
@@ -165,4 +165,5 @@
     color: #fff;
     background-color: #49b1f5;
 }
+
 
