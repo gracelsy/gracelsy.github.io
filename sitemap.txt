@@ -19,10 +19,10 @@ http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/physics
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/deformed.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/enjoy.json
-http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/happy.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/kira.json
-http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/normal.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/unhappy.json
+http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/normal.json
+http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/happy.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepgear_extra/index.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/pose.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepgear_extra/physics.json
@@ -48,8 +48,8 @@ http://example.com/live2d_api/model/HyperdimensionNeptunia/histoirenohover/index
 http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_classic/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/blanc_swimwear/index.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/histoirenohover/physics.json
-http://example.com/live2d_api/model/HyperdimensionNeptunia/blanc_swimwear/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/general/pose.json
+http://example.com/live2d_api/model/HyperdimensionNeptunia/blanc_swimwear/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/noireswim/index.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepmaid/index.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/noireswim/physics.json
