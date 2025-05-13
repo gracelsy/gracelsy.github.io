@@ -166,3 +166,41 @@
     background-color: #49b1f5;
 }
 
+/* 文章列表毛玻璃效果 */
+#recent-posts > .recent-post-item {
+    background: rgba(255, 255, 255, 0.5); /* 半透明白色背景 */
+    backdrop-filter: blur(10px); /* 毛玻璃模糊效果 */
+    -webkit-backdrop-filter: blur(10px); /* Safari兼容性 */
+    border-radius: 12px; /* 圆角设计 */
+    padding: 20px; /* 内边距 */
+    margin-bottom: 20px; /* 底部间距 */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); /* 轻微阴影 */
+    transition: all 0.3s ease; /* 过渡动画 */
+}
+
+/* 文章列表项悬停效果 */
+#recent-posts > .recent-post-item:hover {
+    transform: translateY(-5px); /* 上移效果 */
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1); /* 增强阴影 */
+}
+
+/* 文章标题样式 */
+#recent-posts .recent-post-item .article-title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* 文章摘要样式 */
+#recent-posts .recent-post-item .content {
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+/* 文章元信息样式 */
+#recent-posts .recent-post-item .post-meta {
+    font-size: 14px;
+    color: #999;
+}
