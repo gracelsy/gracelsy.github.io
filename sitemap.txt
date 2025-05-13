@@ -10,8 +10,8 @@ http://example.com/live2d_api/model/KantaiCollection/murakumo/expressions/f01.ex
 http://example.com/live2d_api/model/KantaiCollection/murakumo/expressions/f02.exp.json
 http://example.com/live2d_api/model/KantaiCollection/murakumo/expressions/f03.exp.json
 http://example.com/live2d_api/model/KantaiCollection/murakumo/expressions/f04.exp.json
-http://example.com/live2d_api/model/KantaiCollection/murakumo/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json
+http://example.com/live2d_api/model/KantaiCollection/murakumo/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_normal/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/index.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/index.json
@@ -20,8 +20,8 @@ http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/deformed.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/enjoy.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/happy.json
-http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/normal.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/kira.json
+http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/normal.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/unhappy.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepgear_extra/index.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/pose.json
