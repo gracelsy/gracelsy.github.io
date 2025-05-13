@@ -10,8 +10,8 @@ http://example.com/live2d_api/model/KantaiCollection/murakumo/expressions/f01.ex
 http://example.com/live2d_api/model/KantaiCollection/murakumo/expressions/f02.exp.json
 http://example.com/live2d_api/model/KantaiCollection/murakumo/expressions/f03.exp.json
 http://example.com/live2d_api/model/KantaiCollection/murakumo/expressions/f04.exp.json
-http://example.com/live2d_api/model/KantaiCollection/murakumo/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json
+http://example.com/live2d_api/model/KantaiCollection/murakumo/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_normal/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/index.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/index.json
@@ -48,8 +48,8 @@ http://example.com/live2d_api/model/HyperdimensionNeptunia/histoirenohover/index
 http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_classic/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/blanc_swimwear/index.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/histoirenohover/physics.json
-http://example.com/live2d_api/model/HyperdimensionNeptunia/general/pose.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/blanc_swimwear/physics.json
+http://example.com/live2d_api/model/HyperdimensionNeptunia/general/pose.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/noireswim/index.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepmaid/index.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/noireswim/physics.json
