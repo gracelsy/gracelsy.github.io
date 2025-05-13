@@ -25,7 +25,7 @@
 
 /*标题栏*/
 #page-header.nav-visible #nav {
-    background: rgba(255,255,255,0.5);
+    background: rgba(255, 255, 255, 0);
     backdrop-filter: blur(50px);
 }
 
