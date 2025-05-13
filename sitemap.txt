@@ -17,9 +17,9 @@ http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/index.j
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/index.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/physics.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/physics.json
-http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/deformed.json
-http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/happy.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/enjoy.json
+http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/happy.json
+http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/deformed.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/kira.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/normal.json
 http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/unhappy.json
@@ -78,8 +78,8 @@ http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/expressions/f03.e
 http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/expressions/f04.exp.json
 http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/physics.json
 http://example.com/posts/efb26950.html
-http://example.com/about/index.html
 http://example.com/categories/index.html
+http://example.com/about/index.html
 http://example.com/link/index.html
 http://example.com/tags/index.html
 http://example.com/
