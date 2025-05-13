@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2025-05-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/posts/efb26950.html</loc>
     
     <lastmod>2025-05-13</lastmod>
@@ -119,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/live2d_api/model/KantaiCollection/murakumo/physics.json</loc>
+    <loc>http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json</loc>
     
     <lastmod>2025-05-11</lastmod>
     
@@ -128,7 +137,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json</loc>
+    <loc>http://example.com/live2d_api/model/KantaiCollection/murakumo/physics.json</loc>
     
     <lastmod>2025-05-11</lastmod>
     
@@ -714,15 +723,6 @@
   
   <url>
     <loc>http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/physics.json</loc>
-    
-    <lastmod>2025-05-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/about/index.html</loc>
     
     <lastmod>2025-05-11</lastmod>
     
