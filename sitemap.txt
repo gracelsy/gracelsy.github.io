@@ -76,8 +76,8 @@ http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/index.json
 http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/pose.json
 http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/expressions/f01.exp.json
 http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/expressions/f02.exp.json
-http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/expressions/f04.exp.json
 http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/expressions/f03.exp.json
+http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/expressions/f04.exp.json
 http://example.com/live2d_api/model/ShizukuTalk/shizuku-pajama/physics.json
 http://example.com/categories/index.html
 http://example.com/link/index.html
