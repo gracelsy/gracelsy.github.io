@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'hexo';
+    font-display: swap;
+    src: url('/font/JinNianYeYaoJiaYouYa-2.ttf') format("truetype");  /* https://www.fonts.net.cn/font-40714322101.html */
+}
+body {
+    font-family: 'hexo';
+}
