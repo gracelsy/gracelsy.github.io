@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json</loc>
+    <loc>http://example.com/live2d_api/model/KantaiCollection/murakumo/physics.json</loc>
     
     <lastmod>2025-05-11</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/live2d_api/model/KantaiCollection/murakumo/physics.json</loc>
+    <loc>http://example.com/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json</loc>
     
     <lastmod>2025-05-11</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/kira.json</loc>
+    <loc>http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/happy.json</loc>
     
     <lastmod>2025-05-11</lastmod>
     
@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/happy.json</loc>
+    <loc>http://example.com/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/kira.json</loc>
     
     <lastmod>2025-05-11</lastmod>
     
