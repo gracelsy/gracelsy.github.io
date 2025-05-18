@@ -1,8 +1,0 @@
-@font-face{
-    font-family: 'hexo';
-    font-display: swap;
-    src: url('/font/YinHeShiJi.ttf') format("truetype");  /* https://www.fonts.net.cn/font-40714322101.html */
-}
-body {
-    font-family: 'hexo';
-}
