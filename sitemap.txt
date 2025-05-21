@@ -1,5 +1,5 @@
-http://example.com/about/index.html
 http://example.com/posts/efb26950.html
+http://example.com/about/index.html
 http://example.com/live2d-widget-master/README.html
 http://example.com/live2d-widget-master/package.json
 http://example.com/live2d-widget-master/waifu-tips.json
