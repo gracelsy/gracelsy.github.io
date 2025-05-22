@@ -4,6 +4,15 @@
   <url>
     <loc>http://example.com/posts/efb26950.html</loc>
     
+    <lastmod>2025-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/posts/efb26950.html</loc>
+    
     <lastmod>2025-05-21</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -794,6 +803,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/tags/CloudFlare/</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -812,6 +828,13 @@
   
   <url>
     <loc>http://example.com/categories/Linux/Debian/Ubuntu/</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Linux/Debian/Ubuntu/Docker/</loc>
     <lastmod>2025-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
