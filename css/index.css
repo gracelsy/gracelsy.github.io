@@ -1500,13 +1500,6 @@ a {
 a:hover {
   color: #6a0dad;
 }
-#site-title,
-#site-subtitle,
-.site-name,
-#aside-content .author-info-name,
-#aside-content .author-info-description {
-  font-family: MyCustomFont, "Georgia", "Arial", sans-serif;
-}
 .text-center {
   text-align: center;
 }
@@ -2030,7 +2023,6 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: MyCustomFont, "Georgia", "Arial", sans-serif;
 }
 @media screen and (max-width: 768px) {
   .type-404 .error-content .error-info {
