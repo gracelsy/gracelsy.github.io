@@ -3,11 +3,11 @@
   <title>下一站与你</title>
   
   <subtitle>小小粉刷匠</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://blog.zsir.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://blog.zsir.top/"/>
   <updated>2025-06-14T05:14:42.000Z</updated>
-  <id>http://example.com/</id>
+  <id>https://blog.zsir.top/</id>
   
   <author>
     <name>小小粉刷匠</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>免费白嫖ClawCloud(爪云)搭建属于自己的EasyTier服务器节点</title>
-    <link href="http://example.com/posts/efb26850.html"/>
-    <id>http://example.com/posts/efb26850.html</id>
+    <link href="https://blog.zsir.top/posts/efb26850.html"/>
+    <id>https://blog.zsir.top/posts/efb26850.html</id>
     <published>2025-06-14T05:00:00.000Z</published>
     <updated>2025-06-14T05:14:42.000Z</updated>
     
@@ -34,27 +34,27 @@
     
     
     
-    <category term="Linux" scheme="http://example.com/categories/Linux/"/>
+    <category term="Linux" scheme="https://blog.zsir.top/categories/Linux/"/>
     
-    <category term="Debian" scheme="http://example.com/categories/Linux/Debian/"/>
+    <category term="Debian" scheme="https://blog.zsir.top/categories/Linux/Debian/"/>
     
-    <category term="Ubuntu" scheme="http://example.com/categories/Linux/Debian/Ubuntu/"/>
+    <category term="Ubuntu" scheme="https://blog.zsir.top/categories/Linux/Debian/Ubuntu/"/>
     
     
-    <category term="EasyTier" scheme="http://example.com/tags/EasyTier/"/>
+    <category term="EasyTier" scheme="https://blog.zsir.top/tags/EasyTier/"/>
     
-    <category term="Docker" scheme="http://example.com/tags/Docker/"/>
+    <category term="Docker" scheme="https://blog.zsir.top/tags/Docker/"/>
     
-    <category term="异地组网" scheme="http://example.com/tags/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91/"/>
+    <category term="异地组网" scheme="https://blog.zsir.top/tags/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91/"/>
     
-    <category term="ClawCloud" scheme="http://example.com/tags/ClawCloud/"/>
+    <category term="ClawCloud" scheme="https://blog.zsir.top/tags/ClawCloud/"/>
     
   </entry>
   
   <entry>
     <title>如何优雅的白嫖CloudFlare之搭建Docker镜像加速服务</title>
-    <link href="http://example.com/posts/efb26951.html"/>
-    <id>http://example.com/posts/efb26951.html</id>
+    <link href="https://blog.zsir.top/posts/efb26951.html"/>
+    <id>https://blog.zsir.top/posts/efb26951.html</id>
     <published>2025-05-22T08:30:00.000Z</published>
     <updated>2025-05-22T08:55:08.000Z</updated>
     
@@ -69,25 +69,25 @@
     
     
     
-    <category term="Linux" scheme="http://example.com/categories/Linux/"/>
+    <category term="Linux" scheme="https://blog.zsir.top/categories/Linux/"/>
     
-    <category term="Debian" scheme="http://example.com/categories/Linux/Debian/"/>
+    <category term="Debian" scheme="https://blog.zsir.top/categories/Linux/Debian/"/>
     
-    <category term="Ubuntu" scheme="http://example.com/categories/Linux/Debian/Ubuntu/"/>
+    <category term="Ubuntu" scheme="https://blog.zsir.top/categories/Linux/Debian/Ubuntu/"/>
     
-    <category term="Docker" scheme="http://example.com/categories/Linux/Debian/Ubuntu/Docker/"/>
+    <category term="Docker" scheme="https://blog.zsir.top/categories/Linux/Debian/Ubuntu/Docker/"/>
     
     
-    <category term="Docker" scheme="http://example.com/tags/Docker/"/>
+    <category term="Docker" scheme="https://blog.zsir.top/tags/Docker/"/>
     
-    <category term="CloudFlare" scheme="http://example.com/tags/CloudFlare/"/>
+    <category term="CloudFlare" scheme="https://blog.zsir.top/tags/CloudFlare/"/>
     
   </entry>
   
   <entry>
     <title>EasyTier异地组网教程</title>
-    <link href="http://example.com/posts/efb26950.html"/>
-    <id>http://example.com/posts/efb26950.html</id>
+    <link href="https://blog.zsir.top/posts/efb26950.html"/>
+    <id>https://blog.zsir.top/posts/efb26950.html</id>
     <published>2025-04-23T07:05:26.000Z</published>
     <updated>2025-07-30T00:51:58.000Z</updated>
     
@@ -102,20 +102,20 @@
     
     
     
-    <category term="Linux" scheme="http://example.com/categories/Linux/"/>
+    <category term="Linux" scheme="https://blog.zsir.top/categories/Linux/"/>
     
-    <category term="Debian" scheme="http://example.com/categories/Linux/Debian/"/>
+    <category term="Debian" scheme="https://blog.zsir.top/categories/Linux/Debian/"/>
     
-    <category term="Ubuntu" scheme="http://example.com/categories/Linux/Debian/Ubuntu/"/>
+    <category term="Ubuntu" scheme="https://blog.zsir.top/categories/Linux/Debian/Ubuntu/"/>
     
     
-    <category term="EasyTier" scheme="http://example.com/tags/EasyTier/"/>
+    <category term="EasyTier" scheme="https://blog.zsir.top/tags/EasyTier/"/>
     
-    <category term="Openwrt" scheme="http://example.com/tags/Openwrt/"/>
+    <category term="Openwrt" scheme="https://blog.zsir.top/tags/Openwrt/"/>
     
-    <category term="Docker" scheme="http://example.com/tags/Docker/"/>
+    <category term="Docker" scheme="https://blog.zsir.top/tags/Docker/"/>
     
-    <category term="异地组网" scheme="http://example.com/tags/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91/"/>
+    <category term="异地组网" scheme="https://blog.zsir.top/tags/%E5%BC%82%E5%9C%B0%E7%BB%84%E7%BD%91/"/>
     
   </entry>
   
