@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.zsir.top/tags/index.html</loc>
+    <loc>https://blog.zsir.top/live2d_api/model_list.json</loc>
     
     <lastmod>2026-01-24</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model_list.json</loc>
+    <loc>https://blog.zsir.top/tags/index.html</loc>
     
     <lastmod>2026-01-24</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/physics.json</loc>
     
     <lastmod>2026-01-24</lastmod>
     
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/physics.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json</loc>
     
     <lastmod>2026-01-24</lastmod>
     
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/noir_santa/physics.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/noir_santa/index.json</loc>
     
     <lastmod>2026-01-24</lastmod>
     
@@ -335,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/noir_santa/index.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/noir_santa/physics.json</loc>
     
     <lastmod>2026-01-24</lastmod>
     
@@ -695,15 +695,6 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d-widget-master/demo/demo.html</loc>
-    
-    <lastmod>2026-01-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.zsir.top/live2d-widget-master/demo/login.html</loc>
     
     <lastmod>2026-01-24</lastmod>
@@ -713,7 +704,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d-widget-master/README.html</loc>
+    <loc>https://blog.zsir.top/live2d-widget-master/demo/demo.html</loc>
     
     <lastmod>2026-01-24</lastmod>
     
@@ -723,6 +714,15 @@
   
   <url>
     <loc>https://blog.zsir.top/link/index.html</loc>
+    
+    <lastmod>2026-01-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zsir.top/live2d-widget-master/README.html</loc>
     
     <lastmod>2026-01-24</lastmod>
     
