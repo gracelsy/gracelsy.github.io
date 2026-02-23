@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model_list.json</loc>
+    <loc>https://blog.zsir.top/tags/index.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/tags/index.html</loc>
+    <loc>https://blog.zsir.top/live2d_api/model_list.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/ShizukuTalk/shizuku-48/expressions/f03.exp.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/ShizukuTalk/shizuku-48/expressions/f04.exp.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/ShizukuTalk/shizuku-48/expressions/f04.exp.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/ShizukuTalk/shizuku-48/expressions/f03.exp.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/physics.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/physics.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -596,7 +596,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/histoire/index.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/general/pose.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -605,7 +605,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/general/pose.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/histoire/index.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -659,15 +659,6 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d-widget-master/waifu-tips.json</loc>
-    
-    <lastmod>2026-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.zsir.top/live2d_api/README.html</loc>
     
     <lastmod>2026-02-23</lastmod>
@@ -687,6 +678,15 @@
   
   <url>
     <loc>https://blog.zsir.top/live2d-widget-master/package.json</loc>
+    
+    <lastmod>2026-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zsir.top/live2d-widget-master/waifu-tips.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
