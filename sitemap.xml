@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.zsir.top/tags/index.html</loc>
+    <loc>https://blog.zsir.top/live2d_api/model_list.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model_list.json</loc>
+    <loc>https://blog.zsir.top/tags/index.html</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/physics.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/vert_normal/physics.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -596,7 +596,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/general/pose.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/histoire/index.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
@@ -605,7 +605,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/histoire/index.json</loc>
+    <loc>https://blog.zsir.top/live2d_api/model/HyperdimensionNeptunia/general/pose.json</loc>
     
     <lastmod>2026-02-23</lastmod>
     
