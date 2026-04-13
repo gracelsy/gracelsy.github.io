@@ -1,0 +1,8 @@
+User-agent: Baiduspider
+
+Sitemap: https://blog.zsir.top/baidusitemap.xml
+
+User-agent: *
+Disallow:
+
+Sitemap: https://blog.zsir.top/sitemap.xml
